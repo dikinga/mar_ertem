@@ -1,2 +1,0 @@
-# mar_ertem
-próbálgatok :)
