@@ -1,1 +1,3 @@
-masik folytatva
+masik 
+folytatva
+ezt most a githubon csinálom
